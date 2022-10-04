@@ -1,0 +1,19 @@
+#mainGrid, .row, .cell{
+    border: solid 0.25px;
+    border-color: #494949;
+
+}
+.cell{
+    height: 5px;
+    width: 5px;
+}
+.vert{
+    background: green;
+}
+.Alive{
+    background: black;
+}
+.Dead{
+    background: white;
+}
+
